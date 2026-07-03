@@ -11,5 +11,9 @@ ServerEvents.recipes(event => {
   event.remove({id:"dndesires:crafting/fan_catalyst/smoking_sail"})
   event.remove({id:"dndesires:crafting/fan_catalyst/splashing_sail"})
   event.remove({id:"create_connected:item_application/seething_catalyst_from_empty"})
+  event.remove({id:"dndesires:burner_smoking"})
+  event.remove({id:"dndesires:burner_smelting"})
+  event.remove({id:"dndesires:burner_blasting"})
+  event.remove({id:"dndesires:crafting/burner"})
 })
 

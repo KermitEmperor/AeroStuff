@@ -1,10 +1,12 @@
 {
   "favorites": [],
   "lookup_history": [
-    "item:dndesires:handheld_drill",
+    "item:dndesires:burner",
     "item:dndesires:gatling_breaker",
-    "item:dndesires:splashing_sail",
     "item:dndesires:handheld_saw",
+    "item:dndesires:handheld_drill",
+    "item:dndesires:industrial_fan",
+    "item:dndesires:splashing_sail",
     "item:powergrid:golden_wire",
     "item:powergrid:insulated_copper_wire",
     "item:powergrid:iron_wire",
