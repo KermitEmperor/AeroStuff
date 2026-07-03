@@ -1,0 +1,16 @@
+{
+  "totalPatsCounter": {
+    "pats": 130
+  },
+  "entities": {
+    "creeperoverhaul:badlands_creeper": {
+      "pats": 11
+    },
+    "friendsandfoes:mauler": {
+      "pats": 82
+    },
+    "minecraft:player": {
+      "pats": 34
+    }
+  }
+}

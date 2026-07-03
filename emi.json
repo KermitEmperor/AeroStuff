@@ -1,0 +1,46 @@
+{
+  "favorites": [],
+  "lookup_history": [
+    "item:dndesires:handheld_saw",
+    "item:powergrid:golden_wire",
+    "item:powergrid:insulated_copper_wire",
+    "item:powergrid:iron_wire",
+    "item:powergrid:wire",
+    "item:powergrid:heavy_wire_connector",
+    "item:simplyswords:dormant_relic",
+    "item:simplyswords:tainted_relic",
+    "item:simplyswords:harbinger",
+    "item:cbc_at:medium_heat_rocket_item{\"cbc_at:rocket_fuel\":36b}",
+    "item:minecraft:firework_rocket{\"minecraft:fireworks\":{flight_duration:3b}}",
+    "item:minecraft:netherite_ingot",
+    {
+      "type": "fluid",
+      "id": "createdieselgenerators:crude_oil",
+      "amount": 0
+    },
+    "item:create:andesite_alloy",
+    "item:createdieselgenerators:hammer",
+    "item:create:iron_sheet",
+    "item:minecraft:iron_chestplate",
+    "item:aeronautics:levitite",
+    "item:irons_spellbooks:amethyst_resonance_charm",
+    {
+      "type": "item",
+      "id": "irons_spellbooks:ender_upgrade_orb",
+      "amount": 64
+    },
+    "item:simplyswords:netherite_claymore{\"irons_spellbooks:spell_container\":{data:[{id:\"irons_spellbooks:echoing_strikes\",index:0,level:5}],maxSpells:1,mustEquip:0b,spellWheel:1b},\"minecraft:enchantments\":{levels:{\"minecraft:sharpness\":5}},\"quark:rune_color\":\"rainbow\"}",
+    "item:quark:smithing_template_rune",
+    "item:minecraft:netherite_sword{\"minecraft:enchantments\":{levels:{\"minecraft:sharpness\":5}}}",
+    "item:simplyswords:netherite_longsword",
+    "item:minecraft:stone_bricks"
+  ],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": []
+}

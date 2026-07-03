@@ -1,0 +1,54 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Kermir",
+      "uniqueId": "0883b8be-70b1-4061-bf93-7a2774c7aa84"
+    },
+    "time": 1782918514989,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/MVVc20u8ZJ"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Kermir",
+      "uniqueId": "0883b8be-70b1-4061-bf93-7a2774c7aa84"
+    },
+    "time": 1782847389227,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/zWLRz0R61y"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "GoldenGoldii",
+      "uniqueId": "1d79554f-9425-4ff4-be9d-7af685fddcb5"
+    },
+    "time": 1782846127147,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/o9bKB6RWTr"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Kermir",
+      "uniqueId": "0883b8be-70b1-4061-bf93-7a2774c7aa84"
+    },
+    "time": 1782845065390,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/FpbmGVHULO"
+    }
+  }
+]
