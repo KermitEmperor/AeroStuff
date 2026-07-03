@@ -43,3 +43,6 @@ kubejs/package.json
 vista_ffmpeg_bin
 vista_ffmpeg_sources.json
 config/DistantHorizons.toml
+emi.json
+emi_loot_config.toml
+README.txt

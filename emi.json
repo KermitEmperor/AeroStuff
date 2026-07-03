@@ -1,6 +1,9 @@
 {
   "favorites": [],
   "lookup_history": [
+    "item:simplyswords:toxic_longsword{\"simplyswords:gem_power\":{has_nether_power:1b,has_runic_power:0b,nether_power:\"simplyswords:empty_power\",runic_power:\"simplyswords:empty_power\"}}",
+    "item:simplyswords:whisperwind",
+    "item:simplyswords:harbinger",
     "item:dndesires:handheld_saw",
     "item:powergrid:golden_wire",
     "item:powergrid:insulated_copper_wire",
@@ -9,7 +12,6 @@
     "item:powergrid:heavy_wire_connector",
     "item:simplyswords:dormant_relic",
     "item:simplyswords:tainted_relic",
-    "item:simplyswords:harbinger",
     "item:cbc_at:medium_heat_rocket_item{\"cbc_at:rocket_fuel\":36b}",
     "item:minecraft:firework_rocket{\"minecraft:fireworks\":{flight_duration:3b}}",
     "item:minecraft:netherite_ingot",
