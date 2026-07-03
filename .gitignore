@@ -46,3 +46,6 @@ config/DistantHorizons.toml
 emi.json
 emi_loot_config.toml
 README.txt
+config/sodium-fingerprint.json
+config/quickskin-client.json
+icon.png
