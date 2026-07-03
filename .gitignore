@@ -40,5 +40,6 @@ command_history.txt
 **/jsconfig.json
 jsconfig.json
 kubejs/package.json
-
+vista_ffmpeg_bin
+vista_ffmpeg_sources.json
 config/DistantHorizons.toml
