@@ -1,7 +1,7 @@
 ServerEvents.recipes(event => {
-  event.remove({id:"dndesires:handheld_saw"})
-  event.remove({id:"dndesires:handheld_drill"})
-  event.remove({id:"dndesires:gatling_breaker"})
+  event.remove({id:"dndesires:crafting/handheld_drill"})
+  event.remove({id:"dndesires:crafting/handheld_saw"})
+  event.remove({id:"dndesires:mechanical_crafting/gatling_breaker"})
   event.remove({id:"dndesires:crafting/fan_catalyst/blasting_sail"})
   event.remove({id:"dndesires:crafting/fan_catalyst/dragon_breathing_sail"})
   event.remove({id:"dndesires:crafting/fan_catalyst/freezing_sail"})
