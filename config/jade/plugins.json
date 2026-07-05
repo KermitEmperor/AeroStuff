@@ -57,9 +57,6 @@
     "show_tree_block_counts": true,
     "show_num_chops_remaining": true
   },
-  "spawn": {
-    "stickbug_as_item": true
-  },
   "exposure": {
     "lightroom": true,
     "photograph_frame": true
@@ -90,5 +87,15 @@
   },
   "balm": {
     "jade": true
+  },
+  "functionalstorage": {
+    "armory": true,
+    "drawer": true
+  },
+  "productivebees": {
+    "bee": true,
+    "solitary_nest": true,
+    "canvas_beehive": true,
+    "bee_attributes": true
   }
 }
