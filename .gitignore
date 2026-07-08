@@ -44,7 +44,6 @@ kubejs/package.json
 vista_ffmpeg_bin
 vista_ffmpeg_sources.json
 config/DistantHorizons.toml
-emi.json
 emi_loot_config.toml
 README.txt
 config/sodium-fingerprint.json
@@ -54,3 +53,4 @@ ESM
 config/cosmetica/cosmetica.properties
 config/jei/recipe-category-sort-order.ini
 config/aero_cam_sync-client.toml
+emi.json
