@@ -51,3 +51,6 @@ config/sodium-fingerprint.json
 config/quickskin-client.json
 icon.png
 ESM
+config/cosmetica/cosmetica.properties
+config/jei/recipe-category-sort-order.ini
+config/aero_cam_sync-client.toml
