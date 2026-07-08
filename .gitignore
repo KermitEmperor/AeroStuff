@@ -2,6 +2,7 @@
 *.jar
 *.log
 *.tmp
+*.dat
 
 vista_web_content_cache
 server-resource-packs
