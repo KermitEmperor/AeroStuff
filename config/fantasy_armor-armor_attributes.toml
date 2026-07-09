@@ -1,16 +1,16 @@
 		["Armor Attributes".eclipse_soldier.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.1
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.1
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -30,13 +30,13 @@
 		["Armor Attributes".eclipse_soldier.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -59,13 +59,13 @@
 		["Armor Attributes".eclipse_soldier.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -88,13 +88,13 @@
 		["Armor Attributes".eclipse_soldier.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -117,13 +117,13 @@
 		["Armor Attributes".eclipse_soldier.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -146,13 +146,13 @@
 		["Armor Attributes".dragonslayer.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -175,13 +175,13 @@
 		["Armor Attributes".dragonslayer.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -193,7 +193,7 @@
 			attackDamage = 0.0
 			# Default: 0.1
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.1
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -204,13 +204,13 @@
 		["Armor Attributes".dragonslayer.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -233,13 +233,13 @@
 		["Armor Attributes".dragonslayer.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -262,13 +262,13 @@
 		["Armor Attributes".dragonslayer.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -291,13 +291,13 @@
 		["Armor Attributes".hero.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -306,10 +306,10 @@
 			maxHealth = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 100.0
-			attackDamage = 0.1
+			attackDamage = 0.0
 			# Default: 0.1
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.1
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -320,13 +320,13 @@
 		["Armor Attributes".hero.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -335,10 +335,10 @@
 			maxHealth = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 100.0
-			attackDamage = 0.1
+			attackDamage = 0.0
 			# Default: 0.1
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.1
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -349,13 +349,13 @@
 		["Armor Attributes".hero.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -378,13 +378,13 @@
 		["Armor Attributes".hero.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -407,13 +407,13 @@
 		["Armor Attributes".hero.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -436,16 +436,16 @@
 		["Armor Attributes".golden_horns.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.03
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.03
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -454,7 +454,7 @@
 			attackDamage = 0.0
 			# Default: 0.1
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.1
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -465,16 +465,16 @@
 		["Armor Attributes".golden_horns.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.01
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.01
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -483,7 +483,7 @@
 			attackDamage = 0.0
 			# Default: 0.1
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.1
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -494,16 +494,16 @@
 		["Armor Attributes".golden_horns.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.02
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.02
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -523,16 +523,16 @@
 		["Armor Attributes".golden_horns.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.04
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.04
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -552,13 +552,13 @@
 		["Armor Attributes".golden_horns.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -581,16 +581,16 @@
 		["Armor Attributes".thief.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.05
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -599,10 +599,10 @@
 			attackDamage = 0.0
 			# Default: 0.1
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.1
+			attackSpeed = 0.0
 			# Default: 1.0
 			# Range: -100.0 ~ 100.0
-			luck = 1.0
+			luck = 0.0
 			# Default: 440.0
 			# Range: 0.0 ~ 10000.0
 			durability = 440.0
@@ -610,16 +610,16 @@
 		["Armor Attributes".thief.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.05
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -628,7 +628,7 @@
 			attackDamage = 0.0
 			# Default: 0.1
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.1
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -639,16 +639,16 @@
 		["Armor Attributes".thief.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.1
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.1
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -657,7 +657,7 @@
 			attackDamage = 0.0
 			# Default: 0.1
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.1
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -668,16 +668,16 @@
 		["Armor Attributes".thief.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.1
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.1
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -686,7 +686,7 @@
 			attackDamage = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.05
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -697,13 +697,13 @@
 		["Armor Attributes".thief.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -726,16 +726,16 @@
 		["Armor Attributes".wandering_wizard.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.05
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -747,7 +747,7 @@
 			attackSpeed = 0.0
 			# Default: 2.0
 			# Range: -100.0 ~ 100.0
-			luck = 2.0
+			luck = 0.0
 			# Default: 440.0
 			# Range: 0.0 ~ 10000.0
 			durability = 440.0
@@ -755,16 +755,16 @@
 		["Armor Attributes".wandering_wizard.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.05
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -784,16 +784,16 @@
 		["Armor Attributes".wandering_wizard.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.05
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -813,16 +813,16 @@
 		["Armor Attributes".wandering_wizard.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.05
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -842,13 +842,13 @@
 		["Armor Attributes".wandering_wizard.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -871,13 +871,13 @@
 		["Armor Attributes".chess_board_knight.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -900,19 +900,19 @@
 		["Armor Attributes".chess_board_knight.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 2.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
@@ -929,13 +929,13 @@
 		["Armor Attributes".chess_board_knight.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -958,19 +958,19 @@
 		["Armor Attributes".chess_board_knight.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 2.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
@@ -987,13 +987,13 @@
 		["Armor Attributes".chess_board_knight.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -1016,13 +1016,13 @@
 		["Armor Attributes".dark_lord.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -1034,7 +1034,7 @@
 			attackDamage = 0.0
 			# Default: 0.02
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.02
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -1045,13 +1045,13 @@
 		["Armor Attributes".dark_lord.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -1063,7 +1063,7 @@
 			attackDamage = 0.0
 			# Default: 0.03
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.03
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -1074,13 +1074,13 @@
 		["Armor Attributes".dark_lord.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -1092,7 +1092,7 @@
 			attackDamage = 0.0
 			# Default: 0.03
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.03
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -1103,13 +1103,13 @@
 		["Armor Attributes".dark_lord.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -1121,7 +1121,7 @@
 			attackDamage = 0.0
 			# Default: 0.02
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.02
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -1132,13 +1132,13 @@
 		["Armor Attributes".dark_lord.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -1161,19 +1161,19 @@
 		["Armor Attributes".sunset_wings.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.05
+			movementSpeed = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 1.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
@@ -1190,19 +1190,19 @@
 		["Armor Attributes".sunset_wings.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.05
+			movementSpeed = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 1.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
@@ -1219,19 +1219,19 @@
 		["Armor Attributes".sunset_wings.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.05
+			movementSpeed = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 1.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
@@ -1248,19 +1248,19 @@
 		["Armor Attributes".sunset_wings.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.05
+			movementSpeed = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 1.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
@@ -1277,13 +1277,13 @@
 		["Armor Attributes".sunset_wings.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -1306,25 +1306,25 @@
 		["Armor Attributes".fog_guard.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 1.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
 			# Default: 0.1
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.1
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -1335,25 +1335,25 @@
 		["Armor Attributes".fog_guard.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 1.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
 			# Default: 0.01
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.01
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -1364,25 +1364,25 @@
 		["Armor Attributes".fog_guard.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 1.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
 			# Default: 0.02
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.02
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -1393,25 +1393,25 @@
 		["Armor Attributes".fog_guard.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 1.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
 			# Default: 0.03
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.03
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -1422,13 +1422,13 @@
 		["Armor Attributes".fog_guard.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -1451,19 +1451,19 @@
 		["Armor Attributes".dark_cover.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 2.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
@@ -1480,13 +1480,13 @@
 		["Armor Attributes".dark_cover.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -1498,7 +1498,7 @@
 			attackDamage = 0.0
 			# Default: 0.1
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.1
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -1509,19 +1509,19 @@
 		["Armor Attributes".dark_cover.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 1.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
@@ -1538,13 +1538,13 @@
 		["Armor Attributes".dark_cover.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -1567,13 +1567,13 @@
 		["Armor Attributes".dark_cover.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -1596,25 +1596,25 @@
 		["Armor Attributes".spark_of_dawn.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 1.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
 			# Default: 0.1
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.1
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -1625,13 +1625,13 @@
 		["Armor Attributes".spark_of_dawn.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -1643,7 +1643,7 @@
 			attackDamage = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.05
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -1654,25 +1654,25 @@
 		["Armor Attributes".spark_of_dawn.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.05
+			movementSpeed = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 1.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.05
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -1683,16 +1683,16 @@
 		["Armor Attributes".spark_of_dawn.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.05
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -1712,13 +1712,13 @@
 		["Armor Attributes".spark_of_dawn.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -1741,25 +1741,25 @@
 		["Armor Attributes".golden_execution.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 2.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.05
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -1770,25 +1770,25 @@
 		["Armor Attributes".golden_execution.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 4.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 4.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.05
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -1799,19 +1799,19 @@
 		["Armor Attributes".golden_execution.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 1.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
@@ -1828,19 +1828,19 @@
 		["Armor Attributes".golden_execution.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 1.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
@@ -1857,13 +1857,13 @@
 		["Armor Attributes".golden_execution.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -1886,16 +1886,16 @@
 		["Armor Attributes".forgotten_trace.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.05
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -1907,7 +1907,7 @@
 			attackSpeed = 0.0
 			# Default: 1.0
 			# Range: -100.0 ~ 100.0
-			luck = 1.0
+			luck = 0.0
 			# Default: 440.0
 			# Range: 0.0 ~ 10000.0
 			durability = 440.0
@@ -1915,19 +1915,19 @@
 		["Armor Attributes".forgotten_trace.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.03
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.03
+			movementSpeed = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 2.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
@@ -1944,19 +1944,19 @@
 		["Armor Attributes".forgotten_trace.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.02
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.02
+			movementSpeed = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 1.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
@@ -1973,19 +1973,19 @@
 		["Armor Attributes".forgotten_trace.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.05
+			movementSpeed = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 1.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
@@ -1994,7 +1994,7 @@
 			attackSpeed = 0.0
 			# Default: 1.0
 			# Range: -100.0 ~ 100.0
-			luck = 1.0
+			luck = 0.0
 			# Default: 500.0
 			# Range: 0.0 ~ 10000.0
 			durability = 500.0
@@ -2002,13 +2002,13 @@
 		["Armor Attributes".forgotten_trace.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -2031,28 +2031,28 @@
 		["Armor Attributes".redeemer.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 2.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.05
+			attackSpeed = 0.0
 			# Default: 1.0
 			# Range: -100.0 ~ 100.0
-			luck = 1.0
+			luck = 0.0
 			# Default: 440.0
 			# Range: 0.0 ~ 10000.0
 			durability = 440.0
@@ -2060,28 +2060,28 @@
 		["Armor Attributes".redeemer.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.02
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.02
+			movementSpeed = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 2.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
 			# Default: 0.03
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.03
+			attackSpeed = 0.0
 			# Default: 1.0
 			# Range: -100.0 ~ 100.0
-			luck = 1.0
+			luck = 0.0
 			# Default: 620.0
 			# Range: 0.0 ~ 10000.0
 			durability = 620.0
@@ -2089,16 +2089,16 @@
 		["Armor Attributes".redeemer.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.04
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.04
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -2118,16 +2118,16 @@
 		["Armor Attributes".redeemer.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.02
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.02
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -2147,13 +2147,13 @@
 		["Armor Attributes".redeemer.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -2176,16 +2176,16 @@
 		["Armor Attributes".twinned.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.02
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.02
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -2194,7 +2194,7 @@
 			attackDamage = 0.0
 			# Default: 0.1
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.1
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -2205,16 +2205,16 @@
 		["Armor Attributes".twinned.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.02
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.02
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -2223,7 +2223,7 @@
 			attackDamage = 0.0
 			# Default: 0.02
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.02
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -2234,16 +2234,16 @@
 		["Armor Attributes".twinned.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.02
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.02
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -2252,7 +2252,7 @@
 			attackDamage = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.05
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -2263,16 +2263,16 @@
 		["Armor Attributes".twinned.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.02
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.02
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -2281,7 +2281,7 @@
 			attackDamage = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.05
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -2292,13 +2292,13 @@
 		["Armor Attributes".twinned.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -2321,25 +2321,25 @@
 		["Armor Attributes".gilded_hunt.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 1.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
 			# Default: 0.1
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.1
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -2350,25 +2350,25 @@
 		["Armor Attributes".gilded_hunt.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 1.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
 			# Default: 0.1
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.1
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -2379,13 +2379,13 @@
 		["Armor Attributes".gilded_hunt.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -2408,13 +2408,13 @@
 		["Armor Attributes".gilded_hunt.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -2437,13 +2437,13 @@
 		["Armor Attributes".gilded_hunt.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -2466,13 +2466,13 @@
 		["Armor Attributes".lady_maria.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -2484,10 +2484,10 @@
 			attackDamage = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.05
+			attackSpeed = 0.0
 			# Default: 1.0
 			# Range: -100.0 ~ 100.0
-			luck = 1.0
+			luck = 0.0
 			# Default: 440.0
 			# Range: 0.0 ~ 10000.0
 			durability = 440.0
@@ -2495,16 +2495,16 @@
 		["Armor Attributes".lady_maria.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.05
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -2513,7 +2513,7 @@
 			attackDamage = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.05
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -2524,16 +2524,16 @@
 		["Armor Attributes".lady_maria.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.05
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -2553,16 +2553,16 @@
 		["Armor Attributes".lady_maria.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.03
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.03
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -2582,13 +2582,13 @@
 		["Armor Attributes".lady_maria.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -2611,13 +2611,13 @@
 		["Armor Attributes".crucible_knight.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -2640,19 +2640,19 @@
 		["Armor Attributes".crucible_knight.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 2.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
@@ -2669,13 +2669,13 @@
 		["Armor Attributes".crucible_knight.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -2698,13 +2698,13 @@
 		["Armor Attributes".crucible_knight.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -2727,13 +2727,13 @@
 		["Armor Attributes".crucible_knight.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -2756,16 +2756,16 @@
 		["Armor Attributes".evening_ghost.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.05
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -2777,7 +2777,7 @@
 			attackSpeed = 0.0
 			# Default: 1.0
 			# Range: -100.0 ~ 100.0
-			luck = 1.0
+			luck = 0.0
 			# Default: 440.0
 			# Range: 0.0 ~ 10000.0
 			durability = 440.0
@@ -2785,16 +2785,16 @@
 		["Armor Attributes".evening_ghost.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.03
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.03
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -2806,7 +2806,7 @@
 			attackSpeed = 0.0
 			# Default: 1.0
 			# Range: -100.0 ~ 100.0
-			luck = 1.0
+			luck = 0.0
 			# Default: 620.0
 			# Range: 0.0 ~ 10000.0
 			durability = 620.0
@@ -2814,16 +2814,16 @@
 		["Armor Attributes".evening_ghost.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.04
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.04
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -2843,16 +2843,16 @@
 		["Armor Attributes".evening_ghost.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.05
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -2872,13 +2872,13 @@
 		["Armor Attributes".evening_ghost.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -2901,13 +2901,13 @@
 		["Armor Attributes".ronin.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -2919,7 +2919,7 @@
 			attackDamage = 0.0
 			# Default: 0.1
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.1
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -2930,13 +2930,13 @@
 		["Armor Attributes".ronin.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -2948,7 +2948,7 @@
 			attackDamage = 0.0
 			# Default: 0.1
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.1
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -2959,16 +2959,16 @@
 		["Armor Attributes".ronin.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.03
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.03
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -2988,16 +2988,16 @@
 		["Armor Attributes".ronin.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.05
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -3017,13 +3017,13 @@
 		["Armor Attributes".ronin.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -3046,16 +3046,16 @@
 		["Armor Attributes".malenia.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.07
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.07
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -3064,7 +3064,7 @@
 			attackDamage = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.05
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -3075,16 +3075,16 @@
 		["Armor Attributes".malenia.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.05
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -3093,7 +3093,7 @@
 			attackDamage = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.05
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -3104,16 +3104,16 @@
 		["Armor Attributes".malenia.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.05
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.05
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -3133,16 +3133,16 @@
 		["Armor Attributes".malenia.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.08
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.08
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -3162,13 +3162,13 @@
 		["Armor Attributes".malenia.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -3191,19 +3191,19 @@
 		["Armor Attributes".old_knight.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 1.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
@@ -3220,19 +3220,19 @@
 		["Armor Attributes".old_knight.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 2.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
@@ -3249,19 +3249,19 @@
 		["Armor Attributes".old_knight.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 1.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
@@ -3278,13 +3278,13 @@
 		["Armor Attributes".old_knight.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -3307,13 +3307,13 @@
 		["Armor Attributes".old_knight.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -3336,13 +3336,13 @@
 		["Armor Attributes".silver_knight.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -3354,10 +3354,10 @@
 			attackDamage = 0.0
 			# Default: 0.03
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.03
+			attackSpeed = 0.0
 			# Default: 1.0
 			# Range: -100.0 ~ 100.0
-			luck = 1.0
+			luck = 0.0
 			# Default: 440.0
 			# Range: 0.0 ~ 10000.0
 			durability = 440.0
@@ -3365,13 +3365,13 @@
 		["Armor Attributes".silver_knight.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -3383,10 +3383,10 @@
 			attackDamage = 0.0
 			# Default: 0.03
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.03
+			attackSpeed = 0.0
 			# Default: 1.0
 			# Range: -100.0 ~ 100.0
-			luck = 1.0
+			luck = 0.0
 			# Default: 620.0
 			# Range: 0.0 ~ 10000.0
 			durability = 620.0
@@ -3394,13 +3394,13 @@
 		["Armor Attributes".silver_knight.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -3412,7 +3412,7 @@
 			attackDamage = 0.0
 			# Default: 0.02
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.02
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -3423,13 +3423,13 @@
 		["Armor Attributes".silver_knight.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 3.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -3444,7 +3444,7 @@
 			attackSpeed = 0.0
 			# Default: 1.0
 			# Range: -100.0 ~ 100.0
-			luck = 1.0
+			luck = 0.0
 			# Default: 500.0
 			# Range: 0.0 ~ 10000.0
 			durability = 500.0
@@ -3452,13 +3452,13 @@
 		["Armor Attributes".silver_knight.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -3481,13 +3481,13 @@
 		["Armor Attributes".dead_gladiator.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -3496,7 +3496,7 @@
 			maxHealth = 0.0
 			# Default: 0.05
 			# Range: 0.0 ~ 100.0
-			attackDamage = 0.05
+			attackDamage = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			attackSpeed = 0.0
@@ -3510,13 +3510,13 @@
 		["Armor Attributes".dead_gladiator.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -3525,7 +3525,7 @@
 			maxHealth = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 100.0
-			attackDamage = 0.1
+			attackDamage = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			attackSpeed = 0.0
@@ -3539,13 +3539,13 @@
 		["Armor Attributes".dead_gladiator.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -3554,7 +3554,7 @@
 			maxHealth = 0.0
 			# Default: 0.05
 			# Range: 0.0 ~ 100.0
-			attackDamage = 0.05
+			attackDamage = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			attackSpeed = 0.0
@@ -3568,13 +3568,13 @@
 		["Armor Attributes".dead_gladiator.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -3597,13 +3597,13 @@
 		["Armor Attributes".dead_gladiator.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -3626,19 +3626,19 @@
 		["Armor Attributes".flesh_of_the_feaster.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 1.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 1.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
@@ -3655,19 +3655,19 @@
 		["Armor Attributes".flesh_of_the_feaster.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 1.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 2.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
@@ -3684,19 +3684,19 @@
 		["Armor Attributes".flesh_of_the_feaster.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 1.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 1.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
@@ -3713,13 +3713,13 @@
 		["Armor Attributes".flesh_of_the_feaster.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 1.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 1.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -3742,13 +3742,13 @@
 		["Armor Attributes".flesh_of_the_feaster.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -3771,13 +3771,13 @@
 		["Armor Attributes".wind_worshipper.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -3789,7 +3789,7 @@
 			attackDamage = 0.0
 			# Default: 0.03
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.03
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -3800,13 +3800,13 @@
 		["Armor Attributes".wind_worshipper.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -3818,7 +3818,7 @@
 			attackDamage = 0.0
 			# Default: 0.03
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.03
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -3829,13 +3829,13 @@
 		["Armor Attributes".wind_worshipper.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -3847,7 +3847,7 @@
 			attackDamage = 0.0
 			# Default: 0.02
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.02
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -3858,16 +3858,16 @@
 		["Armor Attributes".wind_worshipper.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.03
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.03
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -3887,13 +3887,13 @@
 		["Armor Attributes".wind_worshipper.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -3916,13 +3916,13 @@
 		["Armor Attributes".grave_sentinel.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -3934,7 +3934,7 @@
 			attackDamage = 0.0
 			# Default: 0.03
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.03
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -3945,13 +3945,13 @@
 		["Armor Attributes".grave_sentinel.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -3963,7 +3963,7 @@
 			attackDamage = 0.0
 			# Default: 0.03
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.03
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -3974,13 +3974,13 @@
 		["Armor Attributes".grave_sentinel.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -3992,7 +3992,7 @@
 			attackDamage = 0.0
 			# Default: 0.02
 			# Range: -1.0 ~ 1.0
-			attackSpeed = 0.02
+			attackSpeed = 0.0
 			# Default: 0.0
 			# Range: -100.0 ~ 100.0
 			luck = 0.0
@@ -4003,16 +4003,16 @@
 		["Armor Attributes".grave_sentinel.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.03
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.03
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -4032,13 +4032,13 @@
 		["Armor Attributes".grave_sentinel.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
@@ -4061,22 +4061,22 @@
 		["Armor Attributes".ornstein.helmet]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 2.0
+			maxHealth = 0.0
 			# Default: 0.05
 			# Range: 0.0 ~ 100.0
-			attackDamage = 0.05
+			attackDamage = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			attackSpeed = 0.0
@@ -4090,22 +4090,22 @@
 		["Armor Attributes".ornstein.chestplate]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 2.0
+			maxHealth = 0.0
 			# Default: 0.05
 			# Range: 0.0 ~ 100.0
-			attackDamage = 0.05
+			attackDamage = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			attackSpeed = 0.0
@@ -4119,19 +4119,19 @@
 		["Armor Attributes".ornstein.leggings]
 			# Default: 6.0
 			# Range: 0.0 ~ 100.0
-			armor = 6.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.03
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.03
+			movementSpeed = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			maxHealth = 2.0
+			maxHealth = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			attackDamage = 0.0
@@ -4148,16 +4148,16 @@
 		["Armor Attributes".ornstein.boots]
 			# Default: 3.0
 			# Range: 0.0 ~ 100.0
-			armor = 3.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.2
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.2
+			knockbackResistance = 0.0
 			# Default: 0.03
 			# Range: -1.0 ~ 1.0
-			movementSpeed = 0.03
+			movementSpeed = 0.0
 			# Default: 0.0
 			# Range: 0.0 ~ 100.0
 			maxHealth = 0.0
@@ -4177,13 +4177,13 @@
 		["Armor Attributes".ornstein.body]
 			# Default: 8.0
 			# Range: 0.0 ~ 100.0
-			armor = 8.0
+			armor = 0.0
 			# Default: 2.0
 			# Range: 0.0 ~ 100.0
-			armorToughness = 2.0
+			armorToughness = 0.0
 			# Default: 0.1
 			# Range: 0.0 ~ 1.0
-			knockbackResistance = 0.1
+			knockbackResistance = 0.0
 			# Default: 0.0
 			# Range: -1.0 ~ 1.0
 			movementSpeed = 0.0

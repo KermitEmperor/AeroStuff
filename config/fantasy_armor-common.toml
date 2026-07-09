@@ -1,8 +1,8 @@
 ["General Settings"]
 	#Apply armor effects
-	applyArmorEffects = true
+	applyArmorEffects = false
 	#Apply attribute modifiers
-	applyModifiers = true
+	applyModifiers = false
 	#Show item descriptions
 	showDescriptions = true
 	#Render custom capes attached to chestplates
