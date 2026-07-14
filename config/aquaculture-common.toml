@@ -10,10 +10,10 @@
 	"How many blocks below sea level Aquaculture fish can spawn" = 13
 
 [neptunium_options]
-	"Enable recipes for Neptunium items?" = true
-	"Enable recipes for Neptunium armor?" = true
+	"Enable recipes for Neptunium items?" = false
+	"Enable recipes for Neptunium armor?" = false
 	#Should Neptune's bounty be added as fishing loot? Very rare.
-	"Add Neptune's Bounty as loot?" = true
+	"Add Neptune's Bounty as loot?" = false
 	# Default: 1
 	# Range: 1 ~ 100
 	"Neptunium loot table weight - For reference; Fish loot table weight: 85, Junk loot table weight: 10" = 1
