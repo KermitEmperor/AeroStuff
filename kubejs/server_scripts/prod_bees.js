@@ -31,4 +31,10 @@ ServerEvents.recipes(event => {
 
     event.remove({id: 'productivebees:bee_produce/alloys/brass_bee'})
     event.remove({id: 'productivebees:centrifuge/alloys/honeycomb_brass'})
+
+
+    event.recipes.create.compacting(Fluid.of('createdieselgenerators:crude_oil', 1000), [
+        '10000x #c:honey'
+    ]).superheated()
 })
+
