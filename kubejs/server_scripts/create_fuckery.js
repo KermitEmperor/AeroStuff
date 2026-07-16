@@ -5,6 +5,9 @@ ServerEvents.recipes(event => {
     create.splashing(CreateItem.of('minecraft:flint', 0.25), 'minecraft:gravel')
 
     event.remove({id: 'create:splashing/soul_sand'})
+
+    event.remove({id: 'create:splashing/red_sand'})
+    create.splashing(CreateItem.of('minecraft:dead_bush', 0.05), 'minecraft:red_sand')
     
     function moarCrushing(result, ore, additional ,remove) {
         if (remove === undefined) remove = true
