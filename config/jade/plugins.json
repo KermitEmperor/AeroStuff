@@ -52,6 +52,9 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "ars_nouveau": {
+    "mob_jar": true
+  },
   "treechop": {
     "plugin": true,
     "show_tree_block_counts": true,
@@ -81,6 +84,9 @@
     "registry_name": "OFF",
     "block_properties": false,
     "mod_name": true
+  },
+  "rats": {
+    "tamed_rat_info": true
   },
   "corpse": {
     "corpse": true

@@ -329,6 +329,150 @@
     "maxWaterDepth": 19,
     "implosionChance": 0.85
   },
+  "ars_additions:archwood_chain": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "ars_additions:archwood_lantern": {
+    "maxWaterDepth": 58,
+    "implosionChance": 0.65
+  },
+  "ars_additions:archwood_magelight_lantern": {
+    "maxWaterDepth": 58,
+    "implosionChance": 0.65
+  },
+  "ars_additions:cracked_polished_sourcestone": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "ars_additions:cracked_polished_sourcestone_large_bricks": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "ars_additions:cracked_polished_sourcestone_small_bricks": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "ars_additions:cracked_polished_sourcestone_wall": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "ars_additions:cracked_sourcestone": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "ars_additions:cracked_sourcestone_large_bricks": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "ars_additions:cracked_sourcestone_small_bricks": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "ars_additions:cracked_sourcestone_wall": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "ars_additions:enchanting_wixie_cauldron": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "ars_additions:ender_source_jar": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "ars_additions:golden_chain": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "ars_additions:golden_lantern": {
+    "maxWaterDepth": 58,
+    "implosionChance": 0.65
+  },
+  "ars_additions:golden_magelight_lantern": {
+    "maxWaterDepth": 58,
+    "implosionChance": 0.65
+  },
+  "ars_additions:magebloom_carpet": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "ars_additions:magelight_lantern": {
+    "maxWaterDepth": 58,
+    "implosionChance": 0.65
+  },
+  "ars_additions:polished_sourcestone_button": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "ars_additions:polished_sourcestone_chain": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "ars_additions:polished_sourcestone_door": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "ars_additions:polished_sourcestone_lantern": {
+    "maxWaterDepth": 58,
+    "implosionChance": 0.65
+  },
+  "ars_additions:polished_sourcestone_magelight_lantern": {
+    "maxWaterDepth": 58,
+    "implosionChance": 0.65
+  },
+  "ars_additions:polished_sourcestone_trapdoor": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "ars_additions:polished_sourcestone_wall": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "ars_additions:soul_magelight_lantern": {
+    "maxWaterDepth": 58,
+    "implosionChance": 0.65
+  },
+  "ars_additions:source_spawner": {
+    "maxWaterDepth": 151,
+    "implosionChance": 0.1
+  },
+  "ars_additions:sourcestone_button": {
+    "maxWaterDepth": 9,
+    "implosionChance": 0.85
+  },
+  "ars_additions:sourcestone_chain": {
+    "maxWaterDepth": 89,
+    "implosionChance": 0.46666667
+  },
+  "ars_additions:sourcestone_door": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "ars_additions:sourcestone_lantern": {
+    "maxWaterDepth": 58,
+    "implosionChance": 0.65
+  },
+  "ars_additions:sourcestone_magelight_lantern": {
+    "maxWaterDepth": 58,
+    "implosionChance": 0.65
+  },
+  "ars_additions:sourcestone_trapdoor": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "ars_additions:sourcestone_wall": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "ars_additions:warp_nexus": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "ars_creo:starbuncle_wheel": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
   "ars_nouveau:agronomic_sourcelink": {
     "maxWaterDepth": 61,
     "implosionChance": 0.6333333
@@ -1108,6 +1252,74 @@
   "ars_nouveau:yellow_sbed": {
     "maxWaterDepth": 61,
     "implosionChance": 0.6333333
+  },
+  "arsdelight:archwood_cabinet": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "arsdelight:bastion_crate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "arsdelight:bastion_jelly": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "arsdelight:bastion_pie": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "arsdelight:bombegrante_crate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "arsdelight:bombegrante_jelly": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "arsdelight:bombegrante_pie": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "arsdelight:frostaya_crate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "arsdelight:frostaya_jelly": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "arsdelight:frostaya_pie": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "arsdelight:honey_glazed_chimera": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "arsdelight:mendosteen_crate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "arsdelight:mendosteen_jelly": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "arsdelight:mendosteen_pie": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "arsdelight:source_berry_crate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "arsdelight:source_berry_jelly": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "arsdelight:wilden_salad": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
   },
   "azimuth:ponder_coordinate": {
     "maxWaterDepth": 1,
@@ -36265,6 +36477,10 @@
     "maxWaterDepth": 161,
     "implosionChance": 0.05
   },
+  "citadel:lectern": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
   "comforts:hammock_black": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -49577,6 +49793,14 @@
     "maxWaterDepth": 11,
     "implosionChance": 0.85
   },
+  "fdlib:test": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "fdlib:test_multiblock": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
   "friendsandfoes:acacia_beehive": {
     "maxWaterDepth": 6,
     "implosionChance": 0.85
@@ -58525,90 +58749,6 @@
     "maxWaterDepth": 6,
     "implosionChance": 0.85
   },
-  "productivebees:advanced_regions_unexplored_baobab_beehive": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:advanced_regions_unexplored_blackwood_beehive": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:advanced_regions_unexplored_blue_bioshroom_beehive": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:advanced_regions_unexplored_cobalt_beehive": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:advanced_regions_unexplored_cypress_beehive": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:advanced_regions_unexplored_dead_beehive": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:advanced_regions_unexplored_eucalyptus_beehive": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:advanced_regions_unexplored_green_bioshroom_beehive": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:advanced_regions_unexplored_joshua_beehive": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:advanced_regions_unexplored_kapok_beehive": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:advanced_regions_unexplored_larch_beehive": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:advanced_regions_unexplored_magnolia_beehive": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:advanced_regions_unexplored_maple_beehive": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:advanced_regions_unexplored_mauve_beehive": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:advanced_regions_unexplored_palm_beehive": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:advanced_regions_unexplored_pine_beehive": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:advanced_regions_unexplored_pink_bioshroom_beehive": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:advanced_regions_unexplored_redwood_beehive": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:advanced_regions_unexplored_socotra_beehive": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:advanced_regions_unexplored_willow_beehive": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:advanced_regions_unexplored_yellow_bioshroom_beehive": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
   "productivebees:advanced_river_canvas_beehive": {
     "maxWaterDepth": 6,
     "implosionChance": 0.85
@@ -58926,90 +59066,6 @@
     "implosionChance": 0.85
   },
   "productivebees:expansion_box_redwood_canvas": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:expansion_box_regions_unexplored_baobab": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:expansion_box_regions_unexplored_blackwood": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:expansion_box_regions_unexplored_blue_bioshroom": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:expansion_box_regions_unexplored_cobalt": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:expansion_box_regions_unexplored_cypress": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:expansion_box_regions_unexplored_dead": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:expansion_box_regions_unexplored_eucalyptus": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:expansion_box_regions_unexplored_green_bioshroom": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:expansion_box_regions_unexplored_joshua": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:expansion_box_regions_unexplored_kapok": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:expansion_box_regions_unexplored_larch": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:expansion_box_regions_unexplored_magnolia": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:expansion_box_regions_unexplored_maple": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:expansion_box_regions_unexplored_mauve": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:expansion_box_regions_unexplored_palm": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:expansion_box_regions_unexplored_pine": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:expansion_box_regions_unexplored_pink_bioshroom": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:expansion_box_regions_unexplored_redwood": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:expansion_box_regions_unexplored_socotra": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:expansion_box_regions_unexplored_willow": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "productivebees:expansion_box_regions_unexplored_yellow_bioshroom": {
     "maxWaterDepth": 6,
     "implosionChance": 0.85
   },
@@ -62280,6 +62336,362 @@
   "quark:yellow_stool": {
     "maxWaterDepth": 2,
     "implosionChance": 0.85
+  },
+  "rats:air_raid_siren": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "rats:auto_curdler": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.76
+  },
+  "rats:black_marbled_cheese": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.48666668
+  },
+  "rats:block_of_blue_cheese": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "rats:block_of_cheese": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "rats:block_of_nether_cheese": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "rats:brain_block": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "rats:cauldron_blue_cheese": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "rats:cauldron_cheese": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "rats:cauldron_milk": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "rats:cauldron_nether_cheese": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
+  },
+  "rats:cheese_ore": {
+    "maxWaterDepth": 43,
+    "implosionChance": 0.74333334
+  },
+  "rats:chunky_cheese_token": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "rats:compressed_garbage": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "rats:compressed_rat": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "rats:cursed_garbage": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "rats:dutchrat_bell": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.5
+  },
+  "rats:dye_sponge": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "rats:fish_barrel": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.72
+  },
+  "rats:garbage_pile": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "rats:jack_o_ratern": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "rats:manhole": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "rats:marbled_cheese": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.48666668
+  },
+  "rats:marbled_cheese_brick": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.48666668
+  },
+  "rats:marbled_cheese_brick_chiseled": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.48666668
+  },
+  "rats:marbled_cheese_brick_cracked": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.48666668
+  },
+  "rats:marbled_cheese_brick_cracked_slab": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.48666668
+  },
+  "rats:marbled_cheese_brick_cracked_stairs": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.48666668
+  },
+  "rats:marbled_cheese_brick_mossy": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.48666668
+  },
+  "rats:marbled_cheese_brick_mossy_slab": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.48666668
+  },
+  "rats:marbled_cheese_brick_mossy_stairs": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.48666668
+  },
+  "rats:marbled_cheese_brick_slab": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.48666668
+  },
+  "rats:marbled_cheese_brick_stairs": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.48666668
+  },
+  "rats:marbled_cheese_chiseled": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.48666668
+  },
+  "rats:marbled_cheese_dirt": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "rats:marbled_cheese_golem_core": {
+    "maxWaterDepth": 246,
+    "implosionChance": 0.05
+  },
+  "rats:marbled_cheese_grass": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "rats:marbled_cheese_pillar": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.48666668
+  },
+  "rats:marbled_cheese_rat_head": {
+    "maxWaterDepth": 12,
+    "implosionChance": 0.85
+  },
+  "rats:marbled_cheese_raw": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.48666668
+  },
+  "rats:marbled_cheese_slab": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.48666668
+  },
+  "rats:marbled_cheese_stairs": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.48666668
+  },
+  "rats:marbled_cheese_tile": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.48666668
+  },
+  "rats:oratchalcum_block": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "rats:oratchalcum_ore": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "rats:pied_garbage": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "rats:pied_wool": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "rats:pirat_button": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "rats:pirat_door": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "rats:pirat_fence": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "rats:pirat_fence_gate": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "rats:pirat_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "rats:pirat_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "rats:pirat_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "rats:pirat_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "rats:pirat_pressure_plate": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "rats:pirat_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "rats:pirat_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "rats:pirat_slab": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "rats:pirat_stairs": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "rats:pirat_trapdoor": {
+    "maxWaterDepth": 39,
+    "implosionChance": 0.76666665
+  },
+  "rats:pirat_wall_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "rats:pirat_wall_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "rats:pirat_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "rats:potted_pirat_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "rats:potted_ratglove_flower": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "rats:purified_garbage": {
+    "maxWaterDepth": 13,
+    "implosionChance": 0.85
+  },
+  "rats:rat_attractor": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "rats:rat_cage": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.76
+  },
+  "rats:rat_cage_breeding_lantern": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.76
+  },
+  "rats:rat_cage_decorated": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.76
+  },
+  "rats:rat_cage_wheel": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.76
+  },
+  "rats:rat_crafting_table": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.85
+  },
+  "rats:rat_hole": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "rats:rat_quarry": {
+    "maxWaterDepth": 22,
+    "implosionChance": 0.85
+  },
+  "rats:rat_quarry_platform": {
+    "maxWaterDepth": 11,
+    "implosionChance": 0.85
+  },
+  "rats:rat_trap": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "rats:rat_tube": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "rats:rat_upgrade_block": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "rats:ratglove_flower": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "rats:ratlantean_gem_ore": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "rats:ratlantis_portal": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "rats:ratlantis_reactor": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "rats:ratlantis_upgrade_block": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "rats:stripped_pirat_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "rats:stripped_pirat_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "rats:trash_can": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.76
+  },
+  "rats:upgrade_combiner": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
+  },
+  "rats:upgrade_separator": {
+    "maxWaterDepth": 33,
+    "implosionChance": 0.8
   },
   "rechiseled:acacia_planks_beams": {
     "maxWaterDepth": 23,
@@ -77757,3374 +78169,6 @@
     "maxWaterDepth": 1,
     "implosionChance": 0.85
   },
-  "regions_unexplored:acacia_branch": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:acacia_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:alpha_dandelion": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:alpha_grass_block": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:alpha_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:alpha_log": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:alpha_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:alpha_rose": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:alpha_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:alpha_slab": {
-    "maxWaterDepth": 27,
-    "implosionChance": 0.835
-  },
-  "regions_unexplored:alpha_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:apple_oak_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:apple_oak_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:argillite": {
-    "maxWaterDepth": 50,
-    "implosionChance": 0.7
-  },
-  "regions_unexplored:argillite_grass_block": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "regions_unexplored:ash": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:ash_vent": {
-    "maxWaterDepth": 26,
-    "implosionChance": 0.84
-  },
-  "regions_unexplored:ashen_dirt": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:ashen_grass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:ashen_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:ashen_log": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:ashen_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:ashen_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:ashen_wood": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:aster": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:bamboo_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:bamboo_log": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:bamboo_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:baobab_branch": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:baobab_button": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:baobab_door": {
-    "maxWaterDepth": 50,
-    "implosionChance": 0.7
-  },
-  "regions_unexplored:baobab_fence": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:baobab_fence_gate": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:baobab_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:baobab_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:baobab_log": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:baobab_planks": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:baobab_pressure_plate": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:baobab_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:baobab_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:baobab_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:baobab_slab": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:baobab_stairs": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:baobab_trapdoor": {
-    "maxWaterDepth": 50,
-    "implosionChance": 0.7
-  },
-  "regions_unexplored:baobab_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:baobab_wall_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:baobab_wood": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:barley": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:barrel_cactus": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:birch_branch": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:birch_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:black_painted_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:black_painted_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:black_painted_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:black_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blackstone_cluster": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blackwood_branch": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blackwood_button": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blackwood_door": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:blackwood_fence": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:blackwood_fence_gate": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blackwood_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blackwood_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blackwood_log": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:blackwood_planks": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:blackwood_pressure_plate": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blackwood_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blackwood_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blackwood_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blackwood_slab": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:blackwood_stairs": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:blackwood_trapdoor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:blackwood_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blackwood_wall_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blackwood_wood": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:bladed_grass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:bladed_tall_grass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:bleeding_heart": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blue_bioshroom": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blue_bioshroom_block": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blue_bioshroom_button": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blue_bioshroom_door": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:blue_bioshroom_fence": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:blue_bioshroom_fence_gate": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blue_bioshroom_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blue_bioshroom_hyphae": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:blue_bioshroom_planks": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:blue_bioshroom_pressure_plate": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blue_bioshroom_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blue_bioshroom_slab": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:blue_bioshroom_stairs": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:blue_bioshroom_stem": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:blue_bioshroom_trapdoor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:blue_bioshroom_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blue_bioshroom_wall_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blue_lupine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blue_magnolia_flowers": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blue_magnolia_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blue_magnolia_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blue_magnolia_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blue_painted_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blue_painted_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blue_painted_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:blue_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:brimsprout": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:brimsprout_nylium": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:brimwood_button": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:brimwood_door": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:brimwood_fence": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:brimwood_fence_gate": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:brimwood_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:brimwood_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:brimwood_log": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:brimwood_log_magma": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:brimwood_planks": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:brimwood_pressure_plate": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:brimwood_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:brimwood_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:brimwood_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:brimwood_slab": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:brimwood_stairs": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:brimwood_trapdoor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:brimwood_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:brimwood_wall_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:brimwood_wood": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:brown_painted_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:brown_painted_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:brown_painted_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:brown_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cattail": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cave_hyssop": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:chalk": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:chalk_brick_slab": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:chalk_brick_stairs": {
-    "maxWaterDepth": 9,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:chalk_bricks": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:chalk_grass_block": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:chalk_pillar": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:chalk_slab": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:chalk_stairs": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cherry_branch": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cherry_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:clover": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cobalt_button": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cobalt_door": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:cobalt_earlight": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cobalt_fence": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:cobalt_fence_gate": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cobalt_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cobalt_log": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:cobalt_nylium": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cobalt_obsidian": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "regions_unexplored:cobalt_planks": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:cobalt_pressure_plate": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cobalt_roots": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cobalt_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cobalt_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cobalt_slab": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:cobalt_stairs": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:cobalt_trapdoor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:cobalt_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cobalt_wall_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cobalt_webbing": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cobalt_wood": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:corpse_flower": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cyan_painted_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cyan_painted_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cyan_painted_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cyan_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cypress_branch": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cypress_button": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cypress_door": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:cypress_fence": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:cypress_fence_gate": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cypress_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cypress_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cypress_log": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:cypress_planks": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:cypress_pressure_plate": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cypress_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cypress_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cypress_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cypress_slab": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:cypress_stairs": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:cypress_trapdoor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:cypress_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cypress_wall_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:cypress_wood": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:daisy": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dark_oak_branch": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dark_oak_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:day_lily": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dead_branch": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dead_button": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dead_door": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:dead_fence": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dead_fence_gate": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dead_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dead_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dead_log": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dead_pine_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dead_pine_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dead_pine_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dead_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dead_pressure_plate": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dead_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dead_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dead_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dead_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dead_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dead_steppe_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dead_trapdoor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:dead_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dead_wall_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dead_wood": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:deepslate_grass_block": {
-    "maxWaterDepth": 73,
-    "implosionChance": 0.56
-  },
-  "regions_unexplored:deepslate_prismoss": {
-    "maxWaterDepth": 73,
-    "implosionChance": 0.56
-  },
-  "regions_unexplored:deepslate_viridescent_nylium": {
-    "maxWaterDepth": 67,
-    "implosionChance": 0.6
-  },
-  "regions_unexplored:dorcel": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dropleaf": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dropleaf_plant": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:duckweed": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:duskmelon": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:dusktrap": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:elephant_ear": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:enchanted_birch_leaf_litter": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:eucalyptus_branch": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:eucalyptus_button": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:eucalyptus_door": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:eucalyptus_fence": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:eucalyptus_fence_gate": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:eucalyptus_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:eucalyptus_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:eucalyptus_log": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:eucalyptus_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:eucalyptus_pressure_plate": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:eucalyptus_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:eucalyptus_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:eucalyptus_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:eucalyptus_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:eucalyptus_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:eucalyptus_trapdoor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:eucalyptus_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:eucalyptus_wall_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:eucalyptus_wood": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:felicia_daisy": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:fireweed": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:flowering_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:flowering_lily_pad": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:flowering_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:flowering_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:frozen_grass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:giant_lily_pad": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:glister_bulb": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:glister_spire": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:glistering_bloom": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:glistering_fern": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:glistering_ivy": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:glistering_ivy_plant": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:glistering_nylium": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:glistering_sprout": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:glistering_wart": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:glowing_blue_bioshroom_block": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:glowing_green_bioshroom_block": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:glowing_pink_bioshroom_block": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:glowing_yellow_bioshroom_block": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:golden_larch_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:golden_larch_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:golden_larch_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:grass_sprouts": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:gray_painted_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:gray_painted_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:gray_painted_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:gray_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:green_bioshroom": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:green_bioshroom_block": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:green_bioshroom_button": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:green_bioshroom_door": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:green_bioshroom_fence": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:green_bioshroom_fence_gate": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:green_bioshroom_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:green_bioshroom_hyphae": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:green_bioshroom_planks": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:green_bioshroom_pressure_plate": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:green_bioshroom_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:green_bioshroom_slab": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:green_bioshroom_stairs": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:green_bioshroom_stem": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:green_bioshroom_trapdoor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:green_bioshroom_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:green_bioshroom_wall_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:green_painted_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:green_painted_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:green_painted_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:green_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:hanging_earlight": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:hanging_earlight_plant": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:hanging_prismarite": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:hibiscus": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:hyacinth_bloom": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:hyacinth_flowers": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:hyacinth_lamp": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:hyssop": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:icicle": {
-    "maxWaterDepth": 4,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:joshua_beard": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:joshua_button": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:joshua_door": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:joshua_fence": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:joshua_fence_gate": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:joshua_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:joshua_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:joshua_log": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:joshua_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:joshua_pressure_plate": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:joshua_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:joshua_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:joshua_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:joshua_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:joshua_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:joshua_trapdoor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:joshua_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:joshua_wall_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:joshua_wood": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:jungle_branch": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:jungle_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:kapok_branch": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:kapok_button": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:kapok_door": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:kapok_fence": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:kapok_fence_gate": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:kapok_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:kapok_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:kapok_log": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:kapok_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:kapok_pressure_plate": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:kapok_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:kapok_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:kapok_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:kapok_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:kapok_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:kapok_trapdoor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:kapok_vines": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:kapok_vines_plant": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:kapok_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:kapok_wall_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:kapok_wood": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:larch_branch": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:larch_button": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:larch_door": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:larch_fence": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:larch_fence_gate": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:larch_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:larch_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:larch_log": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:larch_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:larch_pressure_plate": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:larch_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:larch_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:larch_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:larch_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:larch_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:larch_trapdoor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:larch_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:larch_wall_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:larch_wood": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:large_prismarite_cluster": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:lavender_wisteria_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:lavender_wisteria_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:lavender_wisteria_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:lavender_wisteria_vines": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:light_blue_painted_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:light_blue_painted_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:light_blue_painted_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:light_blue_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:light_gray_painted_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:light_gray_painted_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:light_gray_painted_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:light_gray_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:lime_painted_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:lime_painted_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:lime_painted_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:lime_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:magenta_painted_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:magenta_painted_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:magenta_painted_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:magenta_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:magnolia_branch": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:magnolia_button": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:magnolia_door": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:magnolia_fence": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:magnolia_fence_gate": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:magnolia_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:magnolia_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:magnolia_log": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:magnolia_planks": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:magnolia_pressure_plate": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:magnolia_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:magnolia_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:magnolia_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:magnolia_slab": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:magnolia_stairs": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:magnolia_trapdoor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:magnolia_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:magnolia_wall_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:magnolia_wood": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:mallow": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:mangrove_branch": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:mangrove_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:maple_branch": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:maple_button": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:maple_door": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:maple_fence": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:maple_fence_gate": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:maple_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:maple_leaf_litter": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:maple_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:maple_log": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:maple_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:maple_pressure_plate": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:maple_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:maple_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:maple_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:maple_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:maple_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:maple_trapdoor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:maple_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:maple_wall_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:maple_wood": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:meadow_sage": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:mossy_stone": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "regions_unexplored:mycotoxic_daisy": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:mycotoxic_grass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:mycotoxic_moss": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:mycotoxic_mushrooms": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:oak_branch": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:oak_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:orange_coneflower": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:orange_maple_leaf_litter": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:orange_maple_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:orange_maple_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:orange_maple_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:orange_painted_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:orange_painted_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:orange_painted_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:orange_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:overgrown_bone_block": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:palm_beard": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:palm_button": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:palm_door": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:palm_fence": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:palm_fence_gate": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:palm_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:palm_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:palm_log": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:palm_planks": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:palm_pressure_plate": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:palm_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:palm_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:palm_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:palm_slab": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:palm_stairs": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:palm_trapdoor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:palm_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:palm_wall_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:palm_wood": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:peat_coarse_dirt": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:peat_dirt": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:peat_dirt_path": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:peat_farmland": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:peat_grass_block": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:peat_mud": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:peat_podzol": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pine_branch": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pine_button": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pine_door": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:pine_fence": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:pine_fence_gate": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pine_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pine_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pine_log": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:pine_planks": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:pine_pressure_plate": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pine_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pine_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pine_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pine_slab": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:pine_stairs": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:pine_trapdoor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:pine_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pine_wall_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pine_wood": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:pink_bioshroom": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pink_bioshroom_block": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pink_bioshroom_button": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pink_bioshroom_door": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:pink_bioshroom_fence": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:pink_bioshroom_fence_gate": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pink_bioshroom_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pink_bioshroom_hyphae": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:pink_bioshroom_planks": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:pink_bioshroom_pressure_plate": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pink_bioshroom_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pink_bioshroom_slab": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:pink_bioshroom_stairs": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:pink_bioshroom_stem": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:pink_bioshroom_trapdoor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:pink_bioshroom_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pink_bioshroom_wall_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pink_lupine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pink_magnolia_flowers": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pink_magnolia_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pink_magnolia_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pink_magnolia_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pink_painted_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pink_painted_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pink_painted_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pink_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:pointed_redstone": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:polished_chalk": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:polished_chalk_slab": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:polished_chalk_stairs": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:poppy_bush": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_alpha_dandelion": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_alpha_rose": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_alpha_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_apple_oak_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_ashen_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_aster": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_bamboo_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_baobab_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_barrel_cactus": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_black_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_blackwood_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_bleeding_heart": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_blue_bioshroom": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_blue_lupine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_blue_magnolia_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_blue_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_brimwood_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_brown_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_cave_hyssop": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_cobalt_earlight": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_cobalt_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_corpse_flower": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_cyan_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_cypress_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_daisy": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_day_lily": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_dead_pine_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_dead_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_dorcel": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_dusktrap": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_eucalyptus_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_felicia_daisy": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_fireweed": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_flowering_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_glister_spire": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_glistering_bloom": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_golden_larch_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_gray_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_green_bioshroom": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_green_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_hibiscus": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_hyssop": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_joshua_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_kapok_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_larch_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_lavender_wisteria_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_light_blue_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_light_gray_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_lime_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_magenta_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_magnolia_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_mallow": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_maple_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_meadow_sage": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_mycotoxic_daisy": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_orange_coneflower": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_orange_maple_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_orange_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_palm_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_pine_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_pink_bioshroom": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_pink_lupine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_pink_magnolia_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_pink_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_poppy_bush": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_purple_coneflower": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_purple_lupine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_purple_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_red_lupine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_red_maple_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_red_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_redwood_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_saguaro_cactus_flower": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_salmon_poppy": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_salmon_poppy_bush": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_salmon_wisteria_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_silver_birch_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_sky_wisteria_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_small_oak_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_socotra_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_tall_blue_bioshroom": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_tall_cobalt_earlight": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_tall_green_bioshroom": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_tall_pink_bioshroom": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_tall_yellow_bioshroom": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_tsubaki": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_waratah": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_white_magnolia_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_white_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_white_trillium": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_willow_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_wilting_trillium": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_yellow_bioshroom": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_yellow_lupine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:potted_yellow_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:prismaglass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:prismarite_cluster": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:prismoss": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "regions_unexplored:prismoss_sprout": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:purple_coneflower": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:purple_lupine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:purple_painted_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:purple_painted_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:purple_painted_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:purple_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:raw_redstone_block": {
-    "maxWaterDepth": 25,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:red_lupine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:red_maple_leaf_litter": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:red_maple_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:red_maple_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:red_maple_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:red_painted_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:red_painted_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:red_painted_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:red_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:redstone_bud": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:redstone_bulb": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:redwood_branch": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:redwood_button": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:redwood_door": {
-    "maxWaterDepth": 50,
-    "implosionChance": 0.7
-  },
-  "regions_unexplored:redwood_fence": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:redwood_fence_gate": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:redwood_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:redwood_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:redwood_log": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:redwood_planks": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:redwood_pressure_plate": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:redwood_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:redwood_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:redwood_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:redwood_slab": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:redwood_stairs": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:redwood_trapdoor": {
-    "maxWaterDepth": 50,
-    "implosionChance": 0.7
-  },
-  "regions_unexplored:redwood_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:redwood_wall_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:redwood_wood": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:saguaro_cactus": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:saguaro_cactus_flower": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:salmon_poppy": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:salmon_poppy_bush": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:salmon_wisteria_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:salmon_wisteria_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:salmon_wisteria_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:salmon_wisteria_vines": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:salmonberry_bush": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:sandy_grass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:sandy_tall_grass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:silt_coarse_dirt": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:silt_dirt": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:silt_dirt_path": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:silt_farmland": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:silt_grass_block": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:silt_mud": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:silt_podzol": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:silver_birch_branch": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:silver_birch_leaf_litter": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:silver_birch_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:silver_birch_log": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:silver_birch_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:silver_birch_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:silver_birch_wood": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:sky_wisteria_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:sky_wisteria_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:sky_wisteria_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:sky_wisteria_vines": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:small_desert_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:small_oak_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:small_oak_log": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:small_oak_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:socotra_branch": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:socotra_button": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:socotra_door": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:socotra_fence": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:socotra_fence_gate": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:socotra_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:socotra_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:socotra_log": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:socotra_planks": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:socotra_pressure_plate": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:socotra_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:socotra_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:socotra_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:socotra_slab": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:socotra_stairs": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:socotra_trapdoor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:socotra_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:socotra_wall_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:socotra_wood": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:spanish_moss": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:spanish_moss_plant": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:spruce_branch": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:spruce_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:steppe_grass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:steppe_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:steppe_tall_grass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:stone_grass_block": {
-    "maxWaterDepth": 55,
-    "implosionChance": 0.67
-  },
-  "regions_unexplored:stripped_bamboo_log": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:stripped_baobab_log": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_baobab_wood": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_blackwood_log": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_blackwood_wood": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_blue_bioshroom_hyphae": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_blue_bioshroom_stem": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_brimwood_log": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_brimwood_wood": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_cobalt_log": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_cobalt_wood": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_cypress_log": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_cypress_wood": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_dead_log": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:stripped_dead_wood": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:stripped_eucalyptus_log": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:stripped_eucalyptus_wood": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:stripped_green_bioshroom_hyphae": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_green_bioshroom_stem": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_joshua_log": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:stripped_joshua_wood": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:stripped_kapok_log": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:stripped_kapok_wood": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:stripped_larch_log": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:stripped_larch_wood": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:stripped_magnolia_log": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_magnolia_wood": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_maple_log": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:stripped_maple_wood": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:stripped_palm_log": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_palm_wood": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_pine_log": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_pine_wood": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_pink_bioshroom_hyphae": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_pink_bioshroom_stem": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_redwood_log": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_redwood_wood": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_small_oak_log": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:stripped_socotra_log": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_socotra_wood": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_willow_log": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:stripped_willow_wood": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:stripped_wisteria_log": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_wisteria_wood": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_yellow_bioshroom_hyphae": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:stripped_yellow_bioshroom_stem": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:tall_blue_bioshroom": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:tall_cobalt_earlight": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:tall_green_bioshroom": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:tall_hyacinth_stock": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:tall_pink_bioshroom": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:tall_yellow_bioshroom": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:tassel": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:tsubaki": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:viridescent_nylium": {
-    "maxWaterDepth": 50,
-    "implosionChance": 0.7
-  },
-  "regions_unexplored:volcanic_ash": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:waratah": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:white_magnolia_flowers": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:white_magnolia_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:white_magnolia_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:white_magnolia_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:white_painted_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:white_painted_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:white_painted_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:white_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:white_trillium": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:willow_branch": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:willow_button": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:willow_door": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:willow_fence": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:willow_fence_gate": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:willow_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:willow_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:willow_log": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:willow_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:willow_pressure_plate": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:willow_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:willow_shrub": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:willow_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:willow_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:willow_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:willow_trapdoor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:willow_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:willow_wall_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:willow_wood": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:wilting_trillium": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:windswept_grass": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:wisteria_branch": {
-    "maxWaterDepth": 19,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:wisteria_button": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:wisteria_door": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:wisteria_fence": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:wisteria_fence_gate": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:wisteria_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:wisteria_log": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:wisteria_planks": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:wisteria_pressure_plate": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:wisteria_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:wisteria_slab": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:wisteria_stairs": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:wisteria_trapdoor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:wisteria_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:wisteria_wall_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:wisteria_wood": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:yellow_bioshroom": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:yellow_bioshroom_block": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:yellow_bioshroom_button": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:yellow_bioshroom_door": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:yellow_bioshroom_fence": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:yellow_bioshroom_fence_gate": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:yellow_bioshroom_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:yellow_bioshroom_hyphae": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:yellow_bioshroom_planks": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:yellow_bioshroom_pressure_plate": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:yellow_bioshroom_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:yellow_bioshroom_slab": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:yellow_bioshroom_stairs": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "regions_unexplored:yellow_bioshroom_stem": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "regions_unexplored:yellow_bioshroom_trapdoor": {
-    "maxWaterDepth": 30,
-    "implosionChance": 0.82
-  },
-  "regions_unexplored:yellow_bioshroom_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:yellow_bioshroom_wall_sign": {
-    "maxWaterDepth": 10,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:yellow_lupine": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:yellow_painted_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:yellow_painted_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:yellow_painted_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "regions_unexplored:yellow_snowbelle": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
   "rottencreatures:burned_head": {
     "maxWaterDepth": 18,
     "implosionChance": 0.85
@@ -81204,6 +78248,18 @@
   "rottencreatures:zap_wall_head": {
     "maxWaterDepth": 18,
     "implosionChance": 0.85
+  },
+  "sable_player_ragdoll:mob_ragdoll_part": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "sable_player_ragdoll:ragdoll_part": {
+    "maxWaterDepth": 300,
+    "implosionChance": 0.05
+  },
+  "sable_player_ragdoll:ragdoll_seat": {
+    "maxWaterDepth": 36,
+    "implosionChance": 0.78
   },
   "simulated:altitude_sensor": {
     "maxWaterDepth": 20,
