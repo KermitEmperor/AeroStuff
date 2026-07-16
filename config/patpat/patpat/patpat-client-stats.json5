@@ -1,10 +1,13 @@
 {
   "totalPatsCounter": {
-    "pats": 130
+    "pats": 146
   },
   "entities": {
     "creeperoverhaul:badlands_creeper": {
       "pats": 11
+    },
+    "crittersandcompanions:dragonfly": {
+      "pats": 15
     },
     "friendsandfoes:mauler": {
       "pats": 82

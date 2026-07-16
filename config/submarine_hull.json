@@ -473,6 +473,10 @@
     "maxWaterDepth": 61,
     "implosionChance": 0.6333333
   },
+  "ars_n_spells:spell_loom": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
   "ars_nouveau:agronomic_sourcelink": {
     "maxWaterDepth": 61,
     "implosionChance": 0.6333333
@@ -36477,10 +36481,6 @@
     "maxWaterDepth": 161,
     "implosionChance": 0.05
   },
-  "citadel:lectern": {
-    "maxWaterDepth": 25,
-    "implosionChance": 0.85
-  },
   "comforts:hammock_black": {
     "maxWaterDepth": 1,
     "implosionChance": 0.85
@@ -39428,6 +39428,18 @@
   "create:zinc_ore": {
     "maxWaterDepth": 55,
     "implosionChance": 0.67
+  },
+  "create_compat_core:diamond_dust_block": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "create_compat_core:emerald_dust_block": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "create_compat_core:lapis_lazuli_dust_block": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
   },
   "create_connected:andesite_encased_cross_connector": {
     "maxWaterDepth": 55,
@@ -62337,362 +62349,6 @@
     "maxWaterDepth": 2,
     "implosionChance": 0.85
   },
-  "rats:air_raid_siren": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "rats:auto_curdler": {
-    "maxWaterDepth": 40,
-    "implosionChance": 0.76
-  },
-  "rats:black_marbled_cheese": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.48666668
-  },
-  "rats:block_of_blue_cheese": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "rats:block_of_cheese": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "rats:block_of_nether_cheese": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "rats:brain_block": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "rats:cauldron_blue_cheese": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
-  },
-  "rats:cauldron_cheese": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
-  },
-  "rats:cauldron_milk": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
-  },
-  "rats:cauldron_nether_cheese": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
-  },
-  "rats:cheese_ore": {
-    "maxWaterDepth": 43,
-    "implosionChance": 0.74333334
-  },
-  "rats:chunky_cheese_token": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "rats:compressed_garbage": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "rats:compressed_rat": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "rats:cursed_garbage": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "rats:dutchrat_bell": {
-    "maxWaterDepth": 84,
-    "implosionChance": 0.5
-  },
-  "rats:dye_sponge": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "rats:fish_barrel": {
-    "maxWaterDepth": 47,
-    "implosionChance": 0.72
-  },
-  "rats:garbage_pile": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "rats:jack_o_ratern": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "rats:manhole": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "rats:marbled_cheese": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.48666668
-  },
-  "rats:marbled_cheese_brick": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.48666668
-  },
-  "rats:marbled_cheese_brick_chiseled": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.48666668
-  },
-  "rats:marbled_cheese_brick_cracked": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.48666668
-  },
-  "rats:marbled_cheese_brick_cracked_slab": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.48666668
-  },
-  "rats:marbled_cheese_brick_cracked_stairs": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.48666668
-  },
-  "rats:marbled_cheese_brick_mossy": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.48666668
-  },
-  "rats:marbled_cheese_brick_mossy_slab": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.48666668
-  },
-  "rats:marbled_cheese_brick_mossy_stairs": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.48666668
-  },
-  "rats:marbled_cheese_brick_slab": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.48666668
-  },
-  "rats:marbled_cheese_brick_stairs": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.48666668
-  },
-  "rats:marbled_cheese_chiseled": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.48666668
-  },
-  "rats:marbled_cheese_dirt": {
-    "maxWaterDepth": 5,
-    "implosionChance": 0.85
-  },
-  "rats:marbled_cheese_golem_core": {
-    "maxWaterDepth": 246,
-    "implosionChance": 0.05
-  },
-  "rats:marbled_cheese_grass": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "rats:marbled_cheese_pillar": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.48666668
-  },
-  "rats:marbled_cheese_rat_head": {
-    "maxWaterDepth": 12,
-    "implosionChance": 0.85
-  },
-  "rats:marbled_cheese_raw": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.48666668
-  },
-  "rats:marbled_cheese_slab": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.48666668
-  },
-  "rats:marbled_cheese_stairs": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.48666668
-  },
-  "rats:marbled_cheese_tile": {
-    "maxWaterDepth": 86,
-    "implosionChance": 0.48666668
-  },
-  "rats:oratchalcum_block": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "rats:oratchalcum_ore": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "rats:pied_garbage": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "rats:pied_wool": {
-    "maxWaterDepth": 11,
-    "implosionChance": 0.85
-  },
-  "rats:pirat_button": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "rats:pirat_door": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "rats:pirat_fence": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "rats:pirat_fence_gate": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "rats:pirat_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "rats:pirat_leaves": {
-    "maxWaterDepth": 3,
-    "implosionChance": 0.85
-  },
-  "rats:pirat_log": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "rats:pirat_planks": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "rats:pirat_pressure_plate": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "rats:pirat_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "rats:pirat_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "rats:pirat_slab": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "rats:pirat_stairs": {
-    "maxWaterDepth": 23,
-    "implosionChance": 0.85
-  },
-  "rats:pirat_trapdoor": {
-    "maxWaterDepth": 39,
-    "implosionChance": 0.76666665
-  },
-  "rats:pirat_wall_hanging_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "rats:pirat_wall_sign": {
-    "maxWaterDepth": 16,
-    "implosionChance": 0.85
-  },
-  "rats:pirat_wood": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "rats:potted_pirat_sapling": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "rats:potted_ratglove_flower": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "rats:purified_garbage": {
-    "maxWaterDepth": 13,
-    "implosionChance": 0.85
-  },
-  "rats:rat_attractor": {
-    "maxWaterDepth": 11,
-    "implosionChance": 0.85
-  },
-  "rats:rat_cage": {
-    "maxWaterDepth": 40,
-    "implosionChance": 0.76
-  },
-  "rats:rat_cage_breeding_lantern": {
-    "maxWaterDepth": 40,
-    "implosionChance": 0.76
-  },
-  "rats:rat_cage_decorated": {
-    "maxWaterDepth": 40,
-    "implosionChance": 0.76
-  },
-  "rats:rat_cage_wheel": {
-    "maxWaterDepth": 40,
-    "implosionChance": 0.76
-  },
-  "rats:rat_crafting_table": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.85
-  },
-  "rats:rat_hole": {
-    "maxWaterDepth": 8,
-    "implosionChance": 0.85
-  },
-  "rats:rat_quarry": {
-    "maxWaterDepth": 22,
-    "implosionChance": 0.85
-  },
-  "rats:rat_quarry_platform": {
-    "maxWaterDepth": 11,
-    "implosionChance": 0.85
-  },
-  "rats:rat_trap": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "rats:rat_tube": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "rats:rat_upgrade_block": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "rats:ratglove_flower": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "rats:ratlantean_gem_ore": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "rats:ratlantis_portal": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "rats:ratlantis_reactor": {
-    "maxWaterDepth": 300,
-    "implosionChance": 0.05
-  },
-  "rats:ratlantis_upgrade_block": {
-    "maxWaterDepth": 6,
-    "implosionChance": 0.85
-  },
-  "rats:stripped_pirat_log": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "rats:stripped_pirat_wood": {
-    "maxWaterDepth": 20,
-    "implosionChance": 0.85
-  },
-  "rats:trash_can": {
-    "maxWaterDepth": 40,
-    "implosionChance": 0.76
-  },
-  "rats:upgrade_combiner": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
-  "rats:upgrade_separator": {
-    "maxWaterDepth": 33,
-    "implosionChance": 0.8
-  },
   "rechiseled:acacia_planks_beams": {
     "maxWaterDepth": 23,
     "implosionChance": 0.85
@@ -78249,17 +77905,21 @@
     "maxWaterDepth": 18,
     "implosionChance": 0.85
   },
-  "sable_player_ragdoll:mob_ragdoll_part": {
-    "maxWaterDepth": 1,
-    "implosionChance": 0.85
-  },
-  "sable_player_ragdoll:ragdoll_part": {
+  "sauce:source_fluid_block": {
     "maxWaterDepth": 300,
     "implosionChance": 0.05
   },
-  "sable_player_ragdoll:ragdoll_seat": {
-    "maxWaterDepth": 36,
-    "implosionChance": 0.78
+  "sauce:source_jar_core": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "sauce:source_jar_frame": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "sauce:source_jar_valve": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
   },
   "simulated:altitude_sensor": {
     "maxWaterDepth": 20,
