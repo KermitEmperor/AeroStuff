@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:spline",
+  "spline": {
+    "coordinate": {
+      "type": "minecraft:flat_cache",
+      "argument": {
+        "": "`argument1` values can be used to further skew towards more islands (positive), or less (negative)",
+        "type": "minecraft:add",
+        "argument1": -0.15,
+        "argument2": {
+          "": "Vanilla continentalness, but xz_scale: 0.25 -> 1; closer to 0 is larger noise scale, vice versa",
+          "type": "minecraft:shifted_noise",
+          "noise": "minecraft:continentalness",
+          "shift_x": "minecraft:shift_x",
+          "shift_y": 0,
+          "shift_z": "minecraft:shift_z",
+          "xz_scale": 1.0,
+          "y_scale": 0
+        }
+      }
+    },
+    "": "Spline to have a smooth but skewed continentalness",
+    "points": [
+      {
+        "location": -0.9,
+        "value": -0.95,
+        "derivative": 0.5185
+      },
+      {
+        "location": 0.72,
+        "value": -0.11,
+        "derivative": 0.5185
+      }
+    ]
+  }
+}
