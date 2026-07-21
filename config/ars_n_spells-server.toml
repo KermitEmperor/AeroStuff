@@ -72,7 +72,7 @@
 	#disabling them entirely. 1.0 = full strength, 0.5 = half, 2.0 = double.
 	# Default: 1.0
 	# Range: 0.0 ~ 100.0
-	cross_system_regen_multiplier = 1.0
+	cross_system_regen_multiplier = 0.25
 	#Reference pool size used by REFERENCE_POOL conversion mode.
 	#Has no effect when cross_system_regen_conversion is EQUAL_EFFECT or DISABLED.
 	# Default: 100.0
