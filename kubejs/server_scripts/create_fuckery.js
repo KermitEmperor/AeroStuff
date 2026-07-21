@@ -57,5 +57,5 @@ ServerEvents.recipes(event => {
     create.item_application(Item.of('create:white_sail'), [
         'minecraft:white_wool',
         'minecraft:stick'
-    ])
+    ])    
 })

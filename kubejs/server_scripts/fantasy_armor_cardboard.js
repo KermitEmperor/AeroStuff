@@ -44,6 +44,31 @@ ServerEvents.recipes(event => {
     changeArmor(['fantasy_armor:grave_sentinel_helmet', 'fantasy_armor:grave_sentinel_chestplate', 'fantasy_armor:grave_sentinel_leggings', 'fantasy_armor:grave_sentinel_boots'])
 
 
-    
 
+    event.remove({output: 'fantasy_armor:moon_crystal'})
+    event.shaped('fantasy_armor:moon_crystal', [
+        ' A ',
+        'CAC',
+        ' A '
+    ], {
+        A: 'minecraft:amethyst_shard',
+        C: '#c:plates/copper'
+    })
+    
+    event.custom({
+        "type": "createaddition:charging",
+        "energy": 8000,
+        "ingredients": [
+            {
+                "item": 'minecraft:amethyst_shard'
+            }
+        ],
+        "max_charge_rate": 360,
+        "results": [
+            {
+                "id": 'fantasy_armor:moon_crystal'
+            }
+        ]
+    })
+    .id('kubejs:createaddition/charging/moon_crystal')
 })
