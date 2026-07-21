@@ -1,0 +1,9 @@
+{
+  "primaryColor": "#1979c2",
+  "secondaryColor": "#0c5782",
+  "particleColor": "#0bd923",
+  "flowerTag": "minecraft:flowers",  
+  "attributes": {
+    "behavior": "behavior.nocturnal"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "productivebees:bee_breeding",
+  "parent1": "productivebees:green_carpenter_bee",
+  "parent2": "productivebees:oily",
+  "offspring": "productivebees:inky"
+}

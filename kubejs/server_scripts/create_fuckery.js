@@ -51,4 +51,5 @@ ServerEvents.recipes(event => {
     moarCrushing('irons_spellbooks:mithril_scrap','irons_spellbooks:mithril_ore', 0, false)
 
     
+    create.emptying(Fluid.of('irons_spellbooks:common_ink', 250), 'minecraft:ink_sac')
 })

@@ -36,5 +36,102 @@ ServerEvents.recipes(event => {
     event.recipes.create.compacting(Fluid.of('createdieselgenerators:crude_oil', 1000), [
         '10000x #c:honey'
     ]).superheated()
+
+    
+    event.custom({
+        "type": "productivebees:advanced_beehive",
+        "ingredient": "productivebees:phantom",
+        "results": [
+            {
+                "item": {
+                    "type": "productivebees:component",
+                    "components": {
+                        "productivebees:bee_type": "productivebees:phantom"
+                    },
+                    "items": "productivebees:configurable_honeycomb"
+                }
+            },
+            {
+                "item": {
+                    "tag": "c:pollens"
+                },
+                "chance": 0.1
+            }
+        ]
+    })
+    .id('kubejs:prodbees/prod/phantom')
+
+    event.custom({
+        "type": "productivebees:advanced_beehive",
+        "ingredient": "productivebees:inky",
+        "results": [
+            {
+                "item": {
+                    "type": "productivebees:component",
+                    "components": {
+                        "productivebees:bee_type": "productivebees:inky"
+                    },
+                    "items": "productivebees:configurable_honeycomb"
+                }
+            },
+            {
+                "item": {
+                    "tag": "c:pollens"
+                },
+                "chance": 0.1
+            }
+        ]
+    })
+    .id('kubejs:prodbees/prod/inky')
+
+    event.custom({
+        "type": "productivebees:centrifuge",
+        "ingredient": {
+            "type": "productivebees:component",
+            "components": {
+                "productivebees:bee_type": "productivebees:phantom"
+            },
+            "items": "productivebees:configurable_honeycomb"
+        },
+        "outputs": [
+            {
+                "item": {
+                    "item": 'minecraft:phantom_membrane'
+                },
+                "chance": 0.5
+            },
+            {
+                "item": {
+                    "item": "productivebees:wax"
+                }
+            }
+        ]
+    })
+    .id('kubejs:prodbees/centrifuge/phantom')
+
+    event.custom({
+        "type": "productivebees:centrifuge",
+        "ingredient": {
+            "type": "productivebees:component",
+            "components": {
+                "productivebees:bee_type": "productivebees:inky"
+            },
+            "items": "productivebees:configurable_honeycomb"
+        },
+        "outputs": [
+            {
+                "item": {
+                    "item": 'minecraft:ink_sac'
+                },
+                "chance": 0.75
+            },
+            {
+                "item": {
+                    "item": "productivebees:wax"
+                }
+            }
+        ]
+    })
+    .id('kubejs:prodbees/centrifuge/inky')
 })
 
