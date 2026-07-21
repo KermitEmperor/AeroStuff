@@ -52,4 +52,10 @@ ServerEvents.recipes(event => {
 
     
     create.emptying(Fluid.of('irons_spellbooks:common_ink', 250), 'minecraft:ink_sac')
+
+    event.remove({id: 'create:crafting/kinetics/white_sail'})
+    create.item_application(Item.of('create:white_sail'), [
+        'minecraft:white_wool',
+        'minecraft:stick'
+    ])
 })
