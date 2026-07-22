@@ -133,47 +133,6 @@ ServerEvents.recipes(event => {
     }
   )
 
-  event.remove({id:"sophisticatedbackpacks:diamond_backpack"})
-  event.shaped(Item.of('sophisticatedbackpacks:diamond_backpack'),
-    [
-      'CCC',
-      'CBC', 
-      'CCC'
-    ],
-    {
-      B: 'sophisticatedbackpacks:gold_backpack',  
-      C: 'minecraft:diamond_block'
-    }
-  )
-
-  event.remove({id:"sophisticatedbackpacks:gold_backpack"})
-  event.shaped(Item.of('sophisticatedbackpacks:gold_backpack'),
-    [
-      'CCC',
-      'CBC', 
-      'CCC'
-    ],
-    {
-      B: 'sophisticatedbackpacks:iron_backpack',  
-      C: 'minecraft:gold_block'
-    }
-  )
-
-  event.remove({id:"fantasy_armor:moon_crystal"})
-  event.shaped(Item.of('fantasy_armor:moon_crystal'),
-    [
-      'DBD',
-      'CCC', 
-      'DBD'
-    ],
-    {
-      B: 'minecraft:amethyst_shard',  
-      C: 'minecraft:diamond_block',
-      D: 'minecraft:glow_ink_sac'
-    }
-  )
-
-
   event.remove({id:"createaddition:rolling/gold_plate"})
   event.remove({id:"createaddition:rolling/iron_plate"})
   event.remove({id:"createaddition:rolling/copper_plate"})
